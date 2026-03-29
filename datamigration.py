@@ -5,8 +5,5 @@ sdafsd
 fsdf
 f
 dsaf
-asd
-fasd
-fdsf
 dsf
 sdf
